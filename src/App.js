@@ -10,6 +10,7 @@ function App() {
     <Headers/>
     <Menu />
     <Blogs/>
+    <h1>react js</h1>
     </div>
   );
 }
