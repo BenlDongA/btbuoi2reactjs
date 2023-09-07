@@ -11,6 +11,7 @@ function App() {
     <Menu />
     <Blogs/>
     <h1>react js</h1>
+    học js voi tôi
     </div>
   );
 }
