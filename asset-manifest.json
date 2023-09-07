@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btbuoi2reactjs/static/css/main.073c9b0a.css",
+    "main.js": "/btbuoi2reactjs/static/js/main.92aefd98.js",
+    "static/js/787.e8e826a5.chunk.js": "/btbuoi2reactjs/static/js/787.e8e826a5.chunk.js",
+    "index.html": "/btbuoi2reactjs/index.html",
+    "main.073c9b0a.css.map": "/btbuoi2reactjs/static/css/main.073c9b0a.css.map",
+    "main.92aefd98.js.map": "/btbuoi2reactjs/static/js/main.92aefd98.js.map",
+    "787.e8e826a5.chunk.js.map": "/btbuoi2reactjs/static/js/787.e8e826a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.92aefd98.js"
+  ]
+}
